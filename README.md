@@ -9,9 +9,9 @@ The presentation slides are available [here](fsl23-slides.pdf). The presentation
 - Why use Yocto Project?
 - The building blocks of an embedded Linux system
 - The Yocto Project build system
-- How to setup a Yocto Project build environment
 
 ### Part 2
+- How to setup a Yocto Project build environment
 - How to compile a custom Linux distribution using Yocto Project
 - Prepare and flash the custom Linux distribution to a target device
 
