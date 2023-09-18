@@ -16,4 +16,4 @@ The presentation slides are available [here](fsl23-slides.pdf). The presentation
 - Prepare and flash the custom Linux distribution to a target device
 
 ## Instructions
-The second part of the presentation is a hands-on session where we'll be building a custom Linux distribution using Yocto Project. You can use the [Google Colab](https://colab.research.google.com/drive/1CHOb7vM43-02BuIe7xaQJsu9VwpvCl8L?usp=sharing) available to guide you through the process.
+The second part of the presentation is a hands-on session where we'll be building a custom Linux distribution using Yocto Project. You can use the Google Colab notebook available [online](https://colab.research.google.com/drive/1CHOb7vM43-02BuIe7xaQJsu9VwpvCl8L?usp=sharing) or using the [local](fsl23-guide.ipynb) version.
